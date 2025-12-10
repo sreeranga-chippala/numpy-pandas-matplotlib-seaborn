@@ -117,13 +117,21 @@ All charts saved in /plots folder
 📂 Project Structure
 
 │── main.py
+
 │── retail_customers.csv
+
 │── retail_customers_cleaned.csv
+
 │── customer_segments.csv
+
 │── plots/
+
 │     ├── age_distribution.png
+
 │     ├── amount_spent_distribution.png
+
 │     ├── customers_by_city.png
+
 │     └── amount_spent_by_membership.png
 
 🧠 Technologies Used
