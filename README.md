@@ -93,7 +93,7 @@ plots/customers_by_city.png
 plots/amount_spent_by_membership.png
 
 
----
+
 
 ## ▶️ **How to Run the Project**
 
