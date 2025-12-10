@@ -159,3 +159,21 @@ Customer retention
 Personalized offers
 
 Revenue growth
+
+👨‍💻 Author
+
+Chippala Sree Ranganath
+
+B.E. Artificial Intelligence and Machine Learning — MSRIT
+
+Trained under NxtWave CCBP 4.0 Technologies
+
+Focused on data engineering, automation, NumPy pipelines, and scalable system design.
+
+🔗 GitHub: https://github.com/sreeranga-chippala
+
+
+
+
+
+
