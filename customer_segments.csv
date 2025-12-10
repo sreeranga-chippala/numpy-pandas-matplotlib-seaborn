@@ -1,0 +1,11 @@
+customer_id,high_value,active,risk_of_churn,young_heavy_spender
+C001,False,False,True,True
+C002,False,False,True,False
+C004,False,False,True,False
+C006,False,False,True,False
+C009,False,False,True,False
+C010,False,False,True,False
+C011,False,False,True,False
+C013,True,False,True,True
+C014,True,False,True,False
+C015,False,False,True,False

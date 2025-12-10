@@ -1,0 +1,11 @@
+customer_id,name,age,city,signup_date,last_purchase_date,total_purchases,amount_spent,gender,membership_level,referral_code,customer_tenure_days,days_since_last_purchase,total_purchase_value,high_value,active,risk_of_churn,young_heavy_spender
+C001,John Doe,29.0,Bengaluru,2020-01-15,2023-11-20,12.0,45000,M,Gold,REF123,2156,751,540000.0,False,False,True,True
+C002,Jane Smith,32.0,Bengaluru,2019-05-10,2023-09-12,8.0,38000,F,Silver,REF200,2406,820,304000.0,False,False,True,False
+C004,Priya,24.0,Hyderabad,2020-07-18,2023-12-01,3.0,15000,F,Bronze,nan,1971,740,45000.0,False,False,True,False
+C006,Anita,45.0,Bengaluru,2018-09-30,2023-08-25,0.0,32000,F,Platinum,REF555,2628,838,0.0,False,False,True,False
+C009,Arjun,32.0,Hyderabad,2019-12-22,2023-12-15,10.0,0,M,,REF444,2180,726,0.0,False,False,True,False
+C010,,27.0,B'Lore,2021-06-11,2023-10-20,4.0,24000,Nan,Gold,REF212,1643,782,96000.0,False,False,True,False
+C011,Shruti,38.0,Nan,2020-03-01,2023-11-05,11.0,48000,F,Platinum,REF333,2110,766,528000.0,False,False,True,False
+C013,Sahana,28.0,Bengaluru,2020-01-15,2024-02-20,14.0,51000,F,Platinum,REF001,2156,659,714000.0,True,False,True,True
+C014,George,60.0,Nan,2017-02-20,2023-10-10,18.0,150000,M,Gold,REF567,3215,792,2700000.0,True,False,True,False
+C015,Ali,34.0,Hyderabad,2021-07-07,2023-09-25,9.0,39000,M,Gold,nan,1617,807,351000.0,False,False,True,False

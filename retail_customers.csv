@@ -1,0 +1,16 @@
+customer_id,name,age,city,signup_date,last_purchase_date,total_purchases,amount_spent,gender,membership_level,referral_code
+C001,  john doe ,29,   bengaluru,2020-01-15,2023-11-20,12,45000,M,Gold, REF123
+C002,Jane Smith,NaN,banGalore,2019-05-10,2023-09-12,8,38000,F, silver ,REF200
+C003,Robert,,BENGALURU,2021-03-22,2023-10-02,5,-5000,M,platinum,REF150
+C004, Priya ,24,Hyderabad,2020-07-18,2023-12-01,3,15000,F,Bronze,
+C005,Rahul,17,bangalore,2021-01-10,2023-07-18,2,8000,M,Gold,REF321
+C006,Anita,45,Bengaluru,2018-09-30,2023-08-25,,32000,F,Platinum,REF555
+C007,Suresh,NaN,mumbai,2022-04-14,,6,26000,M,gOld,REF999
+C008,Kavya,101,   Mumbai ,2020-11-05,2023-11-28,12,54000,F,silver,REF888
+C009,Arjun,32,Hyderabad,2019-12-22,2023-12-15,10,0,M, ,REF444
+C010, ,27,B'lore,2021-06-11,2023-10-20,4,24000,,gold,REF212
+C011,Shruti,38,,2020-03-01,2023-11-05,11,48000,F,Platinum,REF333
+C012,Manoj,15,bengaluru,2019-09-09,2023-06-15,1,7000,M,Silver,REF110
+C013,Sahana,28,Bengaluru,2020-01-15,2024-02-20,14,51000,F,platinum ,REF001
+C014,George,60,,2017-02-20,2023-10-10,18,150000,M,Gold,REF567
+C015,Ali,34,hyderbad,2021-07-07,2023-09-25,9,39000,M,Gold,
