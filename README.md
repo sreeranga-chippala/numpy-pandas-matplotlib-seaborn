@@ -102,11 +102,11 @@ plots/amount_spent_by_membership.png
 
 pip install pandas numpy matplotlib seaborn
 
-### 2️⃣ Run the Script
+2️⃣ Run the Script
 
 python main.py
 
-###3️⃣ Output Files Generated
+3️⃣ Output Files Generated
 
 retail_customers_cleaned.csv
 
