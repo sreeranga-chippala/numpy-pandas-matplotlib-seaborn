@@ -98,7 +98,7 @@ plots/amount_spent_by_membership.png
 ## ▶️ **How to Run the Project**
 
 ### 1️⃣ Install Required Libraries  
-```bash
+
 
 pip install pandas numpy matplotlib seaborn
 
