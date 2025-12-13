@@ -146,7 +146,7 @@ plt.ylabel("Amount Spent")
 plt.savefig(f"{PLOT_DIR}/amount_spent_by_membership.png")
 plt.close()
 
-print("All charts saved in 'plots/' folder.")
+print("All charts saved in 'plots/'folder.")
 
 # =============================
 # 10) SAVE CLEANED OUTPUT FILES
