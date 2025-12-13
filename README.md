@@ -126,13 +126,13 @@ All charts saved in /plots folder
 
 │── plots/
 
-│     ├── age_distribution.png
+│       ├── age_distribution.png
 
-│     ├── amount_spent_distribution.png
+│       ├── amount_spent_distribution.png
 
-│     ├── customers_by_city.png
+│       ├── customers_by_city.png
 
-│     └── amount_spent_by_membership.png
+│       └── amount_spent_by_membership.png
 
 🧠 Technologies Used
 
